@@ -1,0 +1,25 @@
+CSS Tutorial
+
+CSS is a language that describes the style of an HTML document.
+CSS descrives how HTML elements should be displayed.
+This tutorial will teach you CSS from basic to advanced.
+
+Examples in Each Chapter
+This CSS tutorial contains hundreds of CSS examples.
+
+With our online editor, you can edit the CSS, and click on a button to view the result.
+
+/* CSS Example */
+body{
+  backgroud-color: lightbule;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+p{
+  font-family: verdana;
+  font-size: 20px;
+}
